@@ -1,3 +1,30 @@
+
+############################################ PROJECT DETAILS ####################################################F
+
+#Components
+
+This project consist 3 Components 
+
+1. Nav Bar - It consist all the links "Hyperlinks", Company logo, Company name, signup and login buttonts.
+
+2. Description - This is the reusable component, which is having Title, Discription and Heading Tags, In which we are passing data throught PROPS so we can use this component again by simply adding data as per our requirements. 
+
+3. Card - This consist of 3 Option, where we are displaying the Product Price, benefits and Information to the User. It's also having HOVER effect.
+   
+#JSX file
+
+This file consist Javascript with Inline HTML Code.
+
+#CSS File
+
+This file consist all the stylesheet code for the transformation and responsive ness functionality.
+
+
+
+
+
+############################################ PROJECT DEPLOYMENT AND EXECUTION DETAILS ####################################################F
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
